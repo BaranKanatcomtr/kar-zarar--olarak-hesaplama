@@ -1,5 +1,5 @@
 # kar-zarar-yuzdelik-olarak-hesaplama
-Flow Chart İle Üründen % Olarak Kâr veya Zarar mı Ettiğini Gösteren Algoritma
+Flow Chart İle Üründen Yüzdelik Olarak Kâr veya Zarar mı Ettiğini Gösteren Algoritma
 
 # Çalışma Mantığı
 Bir üründen elde edilen kazanç oranı şu şekilde bulunur: Örnek olarak alış fiyatı 500 TL, satış fiyatı ise 750 TL olan bir maldan elde edilen
