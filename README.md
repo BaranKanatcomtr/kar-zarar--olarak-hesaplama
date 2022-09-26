@@ -12,7 +12,7 @@ zarar oranı (500 - 400) x 100 / 500 = 20 olur. Yani zarar ornınız %20'dir.
 Dosyanın çalışabilmesi için "flowchart visual programming" programının bilgisayarınızda kurulu olması gerekebilir.
 
 # İletişim
-Benimle iletişme geçmek isterseniz www.barankanat.com.tr adresini ziyaret edebilirsiniz.
+Benimle iletişme geçmek isterseniz www.barankanat.com.tr adresini ziyaret edebilirsiniz.                          
 Twitter: https://twitter.com/Baran_Knt
 Linkedin: https://www.linkedin.com/in/baran-kanat-21b77318a/
 Hızlı İletişim (Telegram): https://t.me/barankanat
